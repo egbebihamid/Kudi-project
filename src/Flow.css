@@ -1,0 +1,479 @@
+@media (min-width: 320px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 20px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 10%;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: none;
+    position: relative;
+    left: 20%;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }
+
+ @media (min-width: 376px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 20px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 10%;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: none;
+    position: relative;
+    left: 20%;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }
+
+ @media (min-width: 420px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 20px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 10%;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: none;
+    position: relative;
+    left: 20%;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }
+
+ @media (min-width: 476px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 20px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 10%;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: none;
+    position: relative;
+    left: 20%;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }
+
+@media (min-width: 576px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 20px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 10%;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 20%;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }
+
+@media (min-width: 768px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    margin-top: 10px;
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 70%;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    left: 80%;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+}
+
+@media (min-width: 992px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 10px;
+    left: 10px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 10px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    /* margin-top: 10px; */
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+    margin-left: 50px;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+}
+
+@media (min-width: 1200px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 10px;
+    left: 10px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 10px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    /* margin-top: 10px; */
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+    margin-left: 50px;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }
+
+@media (min-width: 1400px) { 
+  .follow{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    color: white;
+  }
+  .us{
+    margin-top: 10px;
+    left: 10px;
+  }
+  .icons{
+    margin-left: 1%;
+    position: relative;
+    top: 10px;
+    color: white;
+  }
+  .down{
+    display: flex;
+    /* margin-top: 10px; */
+  }
+  .app{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+  }
+  
+  .apps{
+    border: solid 2px;
+    border-radius: 6px;
+    width: 165px;
+    height: 45px;
+    position: relative;
+    left: 700px;
+    background-color: white;
+    display: flex;
+    margin-left: 50px;
+  }
+  .store p{
+    color: blue;
+    width: 8rem;
+    position: relative;
+    bottom: 5px;
+  }
+  .copy{
+    text-align: center;
+    color: #1F39E0;
+  }
+ }

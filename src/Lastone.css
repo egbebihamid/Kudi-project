@@ -1,0 +1,234 @@
+@media (min-width: 320px) { 
+  .over{
+    background-color: #022457;
+    height: 293%;
+  }
+  .ove{
+    color: white;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 5%;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+ }
+ @media (min-width: 376px) { 
+  .over{
+    background-color: #022457;
+    height: 293%;
+  }
+  .ove{
+    color: white;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 5%;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+ }
+
+ @media (min-width: 420px) { 
+  .over{
+    background-color: #022457;
+    height: 293%;
+  }
+  .ove{
+    color: white;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 5%;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+ }
+
+ @media (min-width: 476px) { 
+  .over{
+    background-color: #022457;
+    height: 293%;
+  }
+  .ove{
+    color: white;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 5%;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+ }
+
+@media (min-width: 576px) { 
+  .over{
+    background-color: #022457;
+    height: 293%;
+  }
+  .ove{
+    color: white;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 5%;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+ }
+
+@media (min-width: 768px) { 
+  .over{
+    background-color: #022457;
+    height: 293%;
+  }
+  .ove{
+    color: white;
+    display: block;
+    position: relative;
+    top: 10%;
+    left: 5%;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+ }
+
+@media (min-width: 992px) { 
+  .over{
+    background-color: #022457;
+    height: 25rem;
+  }
+  .ove{
+    color: white;
+    display: flex;
+    position: relative;
+    bottom: 20px;
+    left: 5%;
+  }
+  .ove h1{
+    margin-left: 5%;
+  }
+  .ove p{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+  }
+  .allots{
+    position: relative;
+    top: 30px;
+    right: 80px;
+  }
+  .address{
+    display: flex;
+    justify-content: space-around;
+    width: 500pt;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+  .the{
+    top: 5001px;
+    left: 731px;
+    width: 168px;
+    height: 110px;
+  }
+
+ }
+
+@media (min-width: 1200px) { 
+  .over{
+    background-color: #022457;
+    height: 25rem;
+  }
+  .ove{
+    color: white;
+    display: flex;
+    position: relative;
+    bottom: 20px;
+    left: 5%;
+  }
+  .ove h1{
+    margin-left: 5%;
+  }
+  .ove p{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+  }
+  .allots{
+    position: relative;
+    top: 30px;
+    right: 80px;
+  }
+  .address{
+    display: flex;
+    justify-content: space-around;
+    width: 500pt;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+  .the{
+    top: 5001px;
+    left: 731px;
+    width: 168px;
+    height: 110px;
+  }
+
+ }
+
+@media (min-width: 1400px) { 
+  .over{
+    background-color: #022457;
+    height: 25rem;
+  }
+  .ove{
+    color: white;
+    display: flex;
+    position: relative;
+    bottom: 20px;
+    left: 5%;
+  }
+  .ove h1{
+    margin-left: 5%;
+  }
+  .ove p{
+    margin-left: 1%;
+    position: relative;
+    top: 20px;
+  }
+  .allots{
+    position: relative;
+    top: 30px;
+    right: 80px;
+  }
+  .address{
+    display: flex;
+    justify-content: space-around;
+    width: 500pt;
+  }
+  .soy{
+    margin-bottom: 10px;
+    background-color: #F29A02;
+  }
+  .the{
+    top: 5001px;
+    left: 731px;
+    width: 168px;
+    height: 110px;
+  }
+ }

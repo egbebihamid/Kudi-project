@@ -1,0 +1,103 @@
+@media (min-width: 320px) {
+    .bg{
+        background-image: url(./Image/Group\ 9045.png);
+    }
+    .flex{
+        display: block;
+        justify-content: space-around;
+    }
+    .rich{
+        color: white;
+        padding-top: 13%;
+        padding-left: 5%;
+    }
+    .rich button{
+        background-color: orange;
+        border-style: none;
+        border-radius: 5px;
+        color: white;
+    }
+    .lady{
+        height: 300px;
+        margin-top: 16%;
+        padding-left: 5%;
+        padding-bottom: 10%;
+    }
+}
+@media (min-width: 375px) {
+    .bg{
+        background-image: url(./Image/Group\ 9045.png);
+    }
+    .flex{
+        display: block;
+        justify-content: space-around;
+    }
+    .rich{
+        color: white;
+        padding-top: 13%;
+        padding-left: 5%;
+    }
+    .rich button{
+        background-color: orange;
+        border-style: none;
+        border-radius: 5px;
+        color: white;
+    }
+    .lady{
+        height: 300px;
+        margin-top: 16%;
+        padding-left: 10%;
+        padding-bottom: 10%;
+    }
+}
+@media (min-width: 425px) {
+    .bg{
+        background-image: url(./Image/Group\ 9045.png);
+    }
+    .flex{
+        display: block;
+        justify-content: space-around;
+    }
+    .rich{
+        color: white;
+        padding-top: 13%;
+        padding-left: 5%;
+    }
+    .rich button{
+        background-color: orange;
+        border-style: none;
+        border-radius: 5px;
+        color: white;
+    }
+    .lady{
+        height: 300px;
+        margin-top: 16%;
+        padding-left: 10%;
+        padding-bottom: 10%;
+    }
+}
+@media (min-width: 1200px) {
+    .bg{
+        background-image: url(./Image/Group\ 9045.png);
+    }
+    .flex{
+        display: flex;
+        justify-content: space-around;
+    }
+    .rich{
+        color: white;
+        padding-bottom: 20%;
+        padding-right: 20%;
+    }
+    .rich button{
+        background-color: orange;
+        border-style: none;
+        border-radius: 5px;
+        color: white;
+    }
+    .lady{
+        height: 600px;
+        margin-top: 16%;
+        padding-bottom: 10%;
+    }
+}

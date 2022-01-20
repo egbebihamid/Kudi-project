@@ -1,0 +1,60 @@
+@media (min-width: 320px) {
+  .gri{
+    background-image: linear-gradient(to bottom, #021E53, #022759, #032C5D, #1E65FF);
+    height: 550px;
+    margin-top: 5%;
+    text-align: center;
+  }
+  .gri h1{
+    color: white;
+    padding-top: 5%;
+  }
+  .stand h1{
+    color: #000;
+  }
+  .stand{
+    background-color: white;
+    border-radius: 10px;
+    width: 10rem;
+    height: 20rem;
+    margin-top: 30px;
+  }
+  .bt{
+    color: white;
+    background-color: #1E65FF;
+    width: 200px;
+    border-radius: 6px;
+    height: 50px;
+    margin-top: 30px;
+  } 
+}
+@media (min-width: 900px) {
+  .gri{
+    background-image: linear-gradient(to bottom, #021E53, #022759, #032C5D, #1E65FF);
+    height: 550px;
+    margin-top: 5%;
+    text-align: center;
+  }
+  .gri h1{
+    color: white;
+    padding-top: 5%;
+  }
+  .stand h1{
+    color: #000;
+  }
+  .stand{
+    background-color: white;
+    border-radius: 10px;
+    width: 250px;
+    height: 23rem;
+    margin-top: 30px;
+  }
+  .bt{
+    color: white;
+    background-color: #1E65FF;
+    width: 200px;
+    border-radius: 6px;
+    height: 50px;
+    margin-top: 30px;
+  } 
+}
